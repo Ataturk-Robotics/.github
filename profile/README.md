@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/49831545/202022105-25f5ed9d-f7f5-47ef-8570-b1f8eedcc7f4.png" width="%100">
 
-# Atatürk Robotics
+# Hydrob
 Türkiye'nin önde gelen robotik takımı
 
 <!--
