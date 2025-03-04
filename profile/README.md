@@ -1,5 +1,5 @@
 
-<img src="<!-- Uploading "Keep up with current surf news.png"... -->">
+<img src="">
 
 # Hydrob
 Türkiye'nin önde gelen robotik takımı
