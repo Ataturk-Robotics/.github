@@ -1,5 +1,5 @@
 
-<img src="file:///C:/Users/EXCALIBUR/Downloads/Keep%20up%20with%20current%20surf%20news.png">
+<img src="https://www.canva.com/design/DAGgeueWdXA/T0YAV4R19Ah4bSxc9zIDQg/edit?utm_content=DAGgeueWdXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 # Hydrob
 Türkiye'nin önde gelen robotik takımı
