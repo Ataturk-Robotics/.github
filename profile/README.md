@@ -1,5 +1,5 @@
 
-<img src="https://www.canva.com/design/DAGgeueWdXA/T0YAV4R19Ah4bSxc9zIDQg/edit?utm_content=DAGgeueWdXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="https://hizliresim.com/f04ml8q">
 
 # Hydrob
 Türkiye'nin önde gelen robotik takımı
