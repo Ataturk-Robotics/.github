@@ -1,5 +1,5 @@
 
-<img src="https://hizliresim.com/f04ml8q">
+<img src="<!-- Uploading "Keep up with current surf news.png"... -->">
 
 # Hydrob
 Türkiye'nin önde gelen robotik takımı
