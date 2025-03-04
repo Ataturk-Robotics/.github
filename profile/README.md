@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/49831545/202022105-25f5ed9d-f7f5-47ef-8570-b1f8eedcc7f4.png" width="%100">
+<img src="file:///C:/Users/EXCALIBUR/Downloads/Keep%20up%20with%20current%20surf%20news.png">
 
 # Hydrob
 Türkiye'nin önde gelen robotik takımı
