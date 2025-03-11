@@ -1,5 +1,5 @@
 
-![alt text](https://hizliresim.com/gpp9msr)
+!image[image alt](https://github.com/Ataturk-Robotics/.github/blob/0e23bc03922e0e6becd878004c526369e6de3c3c/Keep%20up%20with%20current%20surf%20news.png)
 
 
 # Hydrob
