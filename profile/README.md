@@ -1,5 +1,5 @@
 
-<img src="https://i.hizliresim.com/gpp9msr.png">
+<img src="https://hizliresim.com/gpp9msr" alt="alt text" width="2000" height="664">
 
 
 # Hydrob
