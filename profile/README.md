@@ -1,5 +1,5 @@
 
-<img src="https://i.hizliresim.com/gpp9msr.png" alt="Resim Yükle">
+<img src="https://i.hizliresim.com/gpp9msr.png">
 
 
 # Hydrob
