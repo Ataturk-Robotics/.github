@@ -1,5 +1,6 @@
 
-![alt text](https://hizliresim.com/gpp9msr)
+<img src="<a href="https://hizliresim.com/gpp9msr"><img src="https://i.hizliresim.com/gpp9msr.png" alt="Resim Yükle"></a>" >
+
 
 # Hydrob
 Türkiye'nin önde gelen robotik takımı
